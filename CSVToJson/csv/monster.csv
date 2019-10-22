@@ -1,0 +1,10 @@
+怪物配置表,,,,,,,,,,
+备注：,,,,,,,,,,
+怪物ID,资源名称,缩放大小,血量,伤害,移动速度,奔跑速度,资源路径,中文名称,模型名称,描述
+int,string,float,int,int,float,float,string,string,string,string
+id,res_name,scale,hp,hurt,speed,r_speed,res_path,c_name,mod_name,info
+1001,Bat_Green,20,100,10,0.5,1,,蝙蝠,Bat_Green,变异的蝙蝠怪
+1002,Rabbit_Green,20,100,10,0.5,1,,大白兔,Rabbit_Green,变异的兔怪
+1003,Ghost_Brown,20,100,10,0.5,1,,幽灵,Ghost_Brown,恐怖的棕色幽灵
+1004,Slime_Green,20,100,10,0.5,1,,泥怪,Slime_Green,淤泥里产生的怪物
+1005,HuaYao_01,1,200,20,0.5,1,,花妖,,

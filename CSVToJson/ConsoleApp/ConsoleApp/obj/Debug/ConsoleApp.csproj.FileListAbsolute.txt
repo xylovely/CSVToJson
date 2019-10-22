@@ -1,0 +1,9 @@
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\bin\Debug\SimpleJson.dll
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Unity\Tools\XY\CSVtoJson\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb

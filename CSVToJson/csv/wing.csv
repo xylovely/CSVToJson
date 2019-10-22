@@ -1,0 +1,6 @@
+翅膀特效配置表,,表示Unity中的配置，切勿随意更改，可能会造成相关游戏资源无法加载,,,,
+备注：,,,,,,
+翅膀ID,资源名称,缩放大小,资源路径,中文名称,模型名称,描述
+int,string,float,string,string,string,string
+id,res_name,scale,res_path,c_name,mod_name,info
+1001,FireWing,0.05,RPG/Effect/WingEffect/1001_FireWing,焱云翼,FireWing,熊熊燃烧的火焰之翼

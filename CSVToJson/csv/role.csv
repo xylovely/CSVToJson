@@ -1,0 +1,6 @@
+角色配置表,,,,,,,,,,,,,
+备注：角色刚进入的时候的基础属性为 等级配置表 中的1级对应的属性,,,,,,,,,,,,,
+角色ID,资源名称,性别,缩放大小,移动速度,攻击动画时长,攻击冷却时间,攻击方式（1：锁定，0：非锁定）（一共5个，用|分割）,初始技能id（id从 技能配置表 中取）,翅膀特效位置（3个数字对应vector3向量的x y z轴，用|分割）,<U>资源路径,中文名称,模型名称,描述
+int,string,int,float,float,float,float,int,int,float,string,string,string,string
+id,res_name,sex,scale,speed,atk_anim_time,atk_cool_time,atk_type,skill_id,wing_effect_pos,res_path,c_name,mod_name,info
+1001,Archer,1,1,2,0.5,0.5,1,1001,0|0.6|0,RPG/Role/1001_Archer,猎魔人,Goblin Hunter,来自中土的哥布林猎魔人，善用弓箭进行远程攻击
